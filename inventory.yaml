@@ -1,0 +1,5 @@
+[ubuntu]
+server1
+server2
+[centos]
+centosserver ansible_user=rio
