@@ -1,0 +1,11 @@
+[web_servers]
+Ubuntu_server1 ansible_host=server1 ansible_user=aries target_user=aries
+CentOS_server ansible_host=centosserver ansible_user=rio target_user=rio
+
+[db_servers]
+Ubuntu_server1 ansible_host=server1 ansible_user=aries target_user=aries
+CentOS_server ansible_host=centosserver ansible_user=rio target_user=rio
+
+[file_servers]
+Ubuntu_server1 ansible_host=server1 ansible_user=aries target_user=aries
+Ubuntu_server2 ansible_host=server2 ansible_user=aries target_user=aries
