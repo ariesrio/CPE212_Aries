@@ -1,0 +1,8 @@
+[web_servers]
+server1
+
+[db_servers]
+centos
+
+[file_servers]
+server2
